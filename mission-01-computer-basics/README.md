@@ -58,5 +58,5 @@ Not applicable.
 - mission-01-computer-basics/README.md
 
 ## 9. Commit details
-Commit message: "Complete computer basics and
+Commit message: "Complete computer basics and IPOS mission". The work was pushed to GitHub and verified.
 
