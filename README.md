@@ -15,3 +15,8 @@ Mission index
 [Final report folder](./mission-08-final-report)
 
 Here each mission is completed and commited separately
+
+## My Learning
+- I learned how to use the Terminal to create, copy, move and view files.
+- I learned that computers store data in binary and how to convert numbers using Python.
+- I learned how Git tracks changes and how GitHub is used to share work.
